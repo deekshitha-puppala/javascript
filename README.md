@@ -1,3 +1,3 @@
 # javascript
 
-THis is the basic demo code.
+THis is the basic demo Javascript code.
